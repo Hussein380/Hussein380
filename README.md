@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hussein380
-- 👀 I’m interested in Software Enginerring, Artificial Intelligence and Robotics
+- 👀 I’m interested in Software Engineering, Artificial Intelligence and Robotics
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on open source projects and othe projects
 - 📫 How to reach me : huznigarane@gmail.com , x(@huzniGarane), ig(@huzni_gr)
