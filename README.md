@@ -11,11 +11,12 @@ I'm a fullstack Developer passionate about building innovative solutions. Curren
 ![HTML](https://img.shields.io/badge/-HTML-red?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-blueviolet?logo=css3&logoColor=white)
 
+
 ## Projects
 
-- [Project Name](link) - Brief description of the project.
+- [Airbnb Clone](link) - An Airbnb clone replicating the original website's design and functionality. I focused on the frontend development, implementing HTML, CSS, and JavaScript to create a user-friendly interface.
 
-  ![Project Screenshot](screenshot_link)
+  ![Airbnb Clone Screenshot](screenshot_link)
 
 
 
@@ -23,5 +24,6 @@ I'm a fullstack Developer passionate about building innovative solutions. Curren
 
 - [LinkedIn](https://www.linkedin.com/in/hussein-garane-06967b26b/)
 - [GitHub](https://github.com/GaraneHuzni)
-- [Personal Website](https://x.com/GaraneHuzni?t=FFYLQGvy1LBpima0K-Uj7g&s=08)
+- [Twitter](https://twitter.com/GaraneHuzni)
+- [Personal Website]()
 - Email: huznigarane@gmail.com
