@@ -1,11 +1,27 @@
-- 👋 Hi, I’m @Hussein380
-- 👀 I’m interested in Software Engineering, Artificial Intelligence, Cybersecurity and Robotics 
-- 🌱 I’m currently learning Software Engineering(FullStack Developer)
-- 💞️ I’m looking to collaborate on open source projects and othe projects
-- 📫 How to reach me : huznigarane@gmail.com , x(@huzniGarane), ig(@huzni_gr)
-- 😄 Pronouns: Him/He
-- ⚡ Fun fact:Everyday is a coding day. Weekends is just a mindset !
-<!---
-Hussein380/Hussein380 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi there! 👋 I'm Hussein Yussuf
+
+I'm a fullstack Developer passionate about building innovative solutions. Currently focused on JavaScript, Python, SQL, C, HTML, and CSS.
+
+## Skills
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-orange?logo=sql&logoColor=white)
+![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-red?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-blueviolet?logo=css3&logoColor=white)
+
+## Projects
+
+- [Project Name](link) - Brief description of the project.
+
+  ![Project Screenshot](screenshot_link)
+
+
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/hussein-garane-06967b26b/)
+- [GitHub](https://github.com/GaraneHuzni)
+- [Personal Website](https://x.com/GaraneHuzni?t=FFYLQGvy1LBpima0K-Uj7g&s=08)
+- Email: huznigarane@gmail.com
