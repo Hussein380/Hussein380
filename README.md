@@ -16,7 +16,8 @@ I'm a fullstack Developer passionate about building innovative solutions. Curren
 
 - [Airbnb Clone](link) - An Airbnb clone replicating the original website's design and functionality. I focused on the frontend development, implementing HTML, CSS, and JavaScript to create a user-friendly interface.
 
-  ![Airbnb Clone Screenshot](screenshot_link)
+  ![Airbnb Clone Screenshot](![airbnb](https://github.com/Hussein380/Hussein380/assets/126675640/a78cfb6f-d93d-4a29-96d8-704a2db1340f)
+)
 
 
 
