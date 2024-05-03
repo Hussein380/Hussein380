@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Hussein Yussuf
+# Hi there! 👋 I'm Hussein Yussuf Garane
 
 I'm a fullstack Developer passionate about building innovative solutions. Currently focused on JavaScript, Python, SQL, C, HTML, and CSS.
 
