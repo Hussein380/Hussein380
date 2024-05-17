@@ -29,5 +29,3 @@ I'm a fullstack Developer passionate about building innovative solutions. Curren
 - [Twitter](https://twitter.com/GaraneHuzni)
 - [Personal Website]()
 - Email: huznigarane@gmail.com
-
-Feel free to drop me a line or explore my work further. I'm always excited to discuss new opportunities and exchange ideas! 🚀
