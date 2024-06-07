@@ -28,5 +28,5 @@ I'm a fullstack Developer passionate about building innovative solutions. Curren
 - [LinkedIn](https://www.linkedin.com/in/hussein-garane-06967b26b/)
 - [GitHub](https://github.com/GaraneHuzni)
 - [Twitter](https://twitter.com/GaraneHuzni)
-- [Personal Website]()
+- [Personal Website](huzni.tech)
 - Email: huznigarane@gmail.com
