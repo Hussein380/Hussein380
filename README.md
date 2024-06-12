@@ -12,6 +12,7 @@ I'm a fullstack Developer passionate about building innovative solutions. Curren
 ![CSS](https://img.shields.io/badge/-CSS-blueviolet?logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
 
 
 ## Projects
