@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Hussein Yussuf Garane
 
-I'm a fullstack Developer passionate about building innovative solutions. Currently focused on JavaScript, Python, SQL, C, HTML & CSS and Backend technologies.
+I'm a fullstack Developer passionate about building innovative solutions. Currently Backend technologies.
 
 ## Skills
 
