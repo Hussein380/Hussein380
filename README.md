@@ -25,7 +25,7 @@ I'm a fullstack Developer passionate about building innovative solutions. Curren
  
 
 
-## Connect with Me
+## Connect with Me on
 
 - [LinkedIn](https://www.linkedin.com/in/hussein-garane-06967b26b/)
 - [GitHub](https://github.com/GaraneHuzni)
