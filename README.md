@@ -18,7 +18,6 @@ I'm a fullstack Developer passionate about building innovative solutions. Curren
 
 
 
-![Airbnb Clone Screenshot](https://i.imgur.com/UeXnVSl_d.webp?maxwidth=128&shape=square)
 
  
 
