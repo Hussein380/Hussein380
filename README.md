@@ -47,7 +47,7 @@ Currently focusing on designing production-ready architectures, system observabi
 ## 💼 Highlight Projects
 - **Nadjam 2.0** – Full backend system with SQL + MongoDB, Redis caching, logging, monitoring, and AWS deployment.  
 - **AI-Pesa** – AI-powered WhatsApp accountant that processes M-Pesa data and generates visual financial insights.  
-- **HomeMade (Chefy)** – Scalable food-ordering platform built with modern backend architecture and APIs.
+- **HomeMade (Chefy)** – Scalable Chef Hiring platform built with modern backend architecture and APIs.
 
 ---
 
